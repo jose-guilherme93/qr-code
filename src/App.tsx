@@ -3,7 +3,7 @@ function App() {
 
   return (
       <main className="bg-[#D5E1EF] h-screen flex items-center justify-center ">
-        <section className="flex flex-col items-center bg-zinc-100 w-[320px] h-[497px] p-4 rounded-[20px] ">
+        <section className="flex flex-col items-center bg-zinc-100 w-[320px] h-[497px] p-4 rounded-[20px] drop-shadow-md ">
           <div className="flex items-center justify-center w-[288px] h-[288px] bg-[#3685FF] rounded-[20px]">
             <img className="" src={qrcode} alt="código qr da página frontend mentor" />
           </div>
