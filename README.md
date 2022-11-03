@@ -1,4 +1,4 @@
-# qr-code Frontend Mentor
+# QR-Code Frontend Mentor
 Desafio do Discord MantisCode
 Responsivo para celulares e tablets
 
